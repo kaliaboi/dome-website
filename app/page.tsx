@@ -21,7 +21,7 @@ export default function Home() {
             Dome has successfully built teams that traverse multiple disciplines
             and mediums to answer complex projects with original solutions. We
             believe that every project we take on—large or small—is big, and
-            that its impact has everything to do with how it's done and the
+            that its impact has everything to do with how it&apos;s done and the
             people behind it. Dome is certified as a Minority Women-Owned
             Business Enterprise (M/WBE) in New York City and State.
           </AccordionContent>
@@ -45,7 +45,7 @@ export default function Home() {
             Dome has successfully built teams that traverse multiple disciplines
             and mediums to answer complex projects with original solutions. We
             believe that every project we take on—large or small—is big, and
-            that its impact has everything to do with how it's done and the
+            that its impact has everything to do with how it&apos;s done and the
             people behind it. Dome is certified as a Minority Women-Owned
             Business Enterprise (M/WBE) in New York City and State.
           </AccordionContent>
